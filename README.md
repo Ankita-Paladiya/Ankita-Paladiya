@@ -35,9 +35,9 @@ Currently working at **Volkswagen Group (Data:Lab, Munich)**, building productio
 ---
 
 ## 📊 GitHub Stats
-![Ankita's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitapaladiya&show_icons=true&theme=tokyonight)  
+![Ankita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankita-Paladiya&show_icons=true&theme=tokyonight)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitapaladiya&layout=compact&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankita-Paladiya&layout=compact&theme=tokyonight)  
 
 ---
 
